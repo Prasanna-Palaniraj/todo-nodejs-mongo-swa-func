@@ -17,5 +17,8 @@
     "apimSku": {
       "value": "${APIM_SKU=Consumption}"
     }
+    "resourceGroupName": {
+      "value": "Team32"
+    }
   }
 }
